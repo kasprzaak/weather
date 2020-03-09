@@ -1,0 +1,229 @@
+.top{
+    background: #648cff;
+}
+.name{
+    color: #fff;
+    font: 600 20px "Lato";
+    float: left;
+    margin-top: 30px;
+}
+.msg-nav ul li{
+    list-style: none;
+    display: inline-block;
+    float: left;
+    margin-bottom: 70px;
+}
+.msg-nav a{
+    color: #e1e1e1;
+    font: 300 16px "Lato";
+    text-decoration: none;
+    display: block;
+    list-style: none;
+    padding: 37px 30px;
+}
+.msg-nav li a:hover{
+    color: #fff;
+}
+.icons ul li a{
+    color: #fff;
+}
+.icons li{
+    display: inline-block;
+    list-style: none;
+}
+.nazwa{
+    color: #fff;
+    font: 600 50px "Lato";
+    float: left;
+    margin-top: 120px;
+    margin-bottom: 20px;
+}
+.text{
+    color: #fff;
+    font: 300 15px "Lato";
+    float: left;
+    margin-bottom: 50px;
+    margin-right: 200px;
+}
+.button{
+    background: #fc6a42;
+    color: #fff;
+    font: 600 14px "Lato";
+    padding: 13px 30px;
+    border-radius: 4px;
+    list-style: none;
+    text-decoration: none;
+    margin-right: 10px
+}
+.button2{
+     background: #4466c9;
+    color: #fff;
+    font: 600 14px "Lato";
+    padding: 13px 33px;
+    border-radius: 4px;
+    list-style: none;
+    text-decoration: none;
+}
+.cos{
+    margin-bottom: 100px;
+}
+.photo{
+    margin-bottom: 50px
+}
+.head{
+    color: #648cff;
+    font: 800 30px "Lato";
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+.text2{
+    color: #999;
+    font: 300 15px "Lato";
+    text-align: center;
+    margin-bottom: 100px;
+}
+.icon{
+    float: left;
+    margin-right: 10px;
+}
+.naglowek{
+    color: #353854;
+    font: 800 22px "Lato";
+    margin-bottom: 15px;
+}
+.tekst{
+    margin-left: 94px;
+    color: #aeaeae;
+    font: 300 15px/25px "Lato";
+}
+.head2{
+    color: #648cff;
+    font: 800 30px "Lato";
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+.text3{
+    color: #999;
+    font: 300 15px "Lato";
+    text-align: center;
+    margin-bottom: 100px;
+}
+.naglowek2{
+    color: #648cff;
+    font: 600 30px "Lato";
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.tekst2{
+    color: #353854;
+    font: 400 20px/30px "Lato";
+    margin-right: 170px
+}
+.icon2{
+    margin-top: 150px;
+}
+.photo2{
+    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.photo3{
+    margin-bottom: 100px;
+    margin-top: 100px;
+    margin-right: 50px;
+}
+.head3{
+    color: #648cff;
+    font: 800 30px "Lato";
+    text-align: center;
+    margin-bottom: 10px;
+}
+.text4{
+    color: #999;
+    font: 400 15px "Lato";
+    text-align: center;
+    margin-bottom: 100px;
+}
+.cytat{
+    color: #353854;
+    font: 400 24px/30px "Lato";
+    text-align: left;
+    margin-bottom: 20px
+}
+.osoba{
+    color: #353854;
+    font: 400 18px "Lato";
+    text-align: left;
+    margin-bottom: 30px;
+}
+.cudzyslow{
+    color: #648cff;
+    font: 800 140px;
+    margin-bottom: 20px
+}
+.cudzyslow2{
+    float: right;
+    margin-bottom: 100px;
+    margin-right: 30px;
+}
+.cos5{
+    background: url('../img/backgroundapp.png') no-repeat;
+}
+.head4{
+    color: #fff;
+    font: 800 30px "Lato";
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.text5{
+    color: #fff;
+    font: 400 15px "Lato";
+    margin-right: 200px;
+    letter-spacing: 0.5px;
+}
+.app{
+    float: left;
+    margin-top: 25px;
+    margin-right: 8px;
+    margin-bottom: 160px;
+}
+.box-footer{
+    background: #353854;
+}
+.fun{
+    color: #fc6a42;
+    font: 800 20px "Lato";
+    margin-top: 100px;
+}
+.weather{
+    color: #648cff;
+    font: 800 20px "Lato";
+    margin-top: 100px;
+}
+.menu li{
+   list-style: none;
+    display: inline-block;
+    float: left; 
+}
+.menu li a{
+    color: #b5b5c8;
+    font: 400 15px "Lato";
+    text-decoration: none;
+    display: block;
+    list-style: none;
+    padding: 35px;
+    margin-top: 65px;
+    margin-bottom: 65px;
+}
+.menu li a:hover{
+    color: #fff;
+}
+.plus{
+    float: right;
+    color: #565b87;
+    font: 400 13px "Lato";
+    letter-spacing: 0.5px;
+    margin-bottom: 50px;
+}
